@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rodrigosfelix/rodrigosfelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 <h2 align="center"><u>My Github Stats</u></h2>
