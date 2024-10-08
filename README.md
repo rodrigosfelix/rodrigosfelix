@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Dev<br>👯 I’m looking to collaborate on None<br>🤝 I’m looking for help with Spring Boot and Java in general<br>🌱 I’m currently learning software architecture<br>💬 Ask me about my day<br>⚡ Fun fact not exist
+🔭 I’m currently working on Web Dev<br>👯 I’m looking to collaborate on None<br>🤝 I’m looking for help with Spring Boot, Java in general and all in my life<br>🌱 I’m currently learning software architecture<br>💬 Ask me about my day<br>⚡ Fun fact not exist
 
 
 # 💻 Tech Stack:
