@@ -28,9 +28,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 2,232 Contributions in the Year 2025
+> 🏆 2,233 Contributions in the Year 2025
  > 
-> 📦 425 Bytes Used in Github's Storage 
+> 📦 343 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,5 +96,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2025
+ Last Updated on 25/08/2025
 <!--END_SECTION:waka-->
