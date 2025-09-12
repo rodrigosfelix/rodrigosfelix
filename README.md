@@ -28,9 +28,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 2,315 Contributions in the Year 2025
+> 🏆 2,319 Contributions in the Year 2025
  > 
-> 📦 359 Bytes Used in Github's Storage 
+> 📦 361 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,13 +67,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   39.24% 
+Java Properties          1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   31.7% 
+XML                      1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   21.39% 
+Properties               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.63% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            5 hrs 30 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 hrs 30 mins       █████████████████████████   100.0%
 
 ```
 
@@ -90,5 +94,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2025
+ Last Updated on 12/09/2025
 <!--END_SECTION:waka-->
